@@ -1,2 +1,2 @@
-# explore
-Fast local-first interface to GPT3
+# exPlore
+Fast elixir interface to ChatGPT API
